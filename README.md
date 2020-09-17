@@ -1,7 +1,7 @@
 <h1 align='center'>Sliding Text</h1>
 
 <p align="center">
- <img src="https://github.com/luizvicentin/quickTip/blob/master/img/screenshot.png">
+ <img src="https://github.com/luizvicentin/slidingText/blob/master/img/gif-maker.gif">
 </p>
 
 ## 💻 Project
@@ -15,7 +15,7 @@ This Project use HTML, CSS and JavaScript.
 ## 🙌 Acknowledgment
 
 - [Easy Tutorials](https://easytutorialspro.com/)
-- [ A Website With Sliding Text] (https://youtu.be/9-ckhZLm9qo)
+- [ A Website With Sliding Text](https://youtu.be/9-ckhZLm9qo)
 
 ## 📝 License
 
